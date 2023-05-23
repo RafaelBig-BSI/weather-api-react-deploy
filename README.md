@@ -16,8 +16,9 @@ Para deploy utilizei Github Pages: https://rafaelbig-bsi.github.io/weather-api-r
 2) Para ver sua API Key no site vá em: Seu Perfil -> My API Keys. Ali mostrará qual é a sua chave API.
 
 ## <img height="40" src="https://user-images.githubusercontent.com/84249945/219459633-fbe0a910-0287-4f46-9ec3-0eaf1da53b87.png"/> Criação do arquivo <b>.env</b>
-* Crie o arquivo ``.env`` na raiz do projeto com o conteúdo conforme a imagem:
+* Crie o arquivo ``.env`` na raiz do projeto, coloque sua API Key onde está sublinhado conforme a imagem:
 
+![image](https://github.com/RafaelBig-BSI/weather-api-react-deploy/assets/84249945/e18d730b-3b1a-45bc-9e6a-c80ca51a5504)
 
 
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219701953-d9aadf6c-065a-4176-8c21-3b13c497f752.png"/> Instalações
