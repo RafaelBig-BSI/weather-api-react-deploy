@@ -12,6 +12,15 @@ Para deploy utilizei Github Pages: https://rafaelbig-bsi.github.io/weather-api-r
 * Exibição da umidade e velocidade do vento no local
 
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219471082-bba3510e-ee6d-4a6e-bf78-d7afc692043e.png"/> Como utilizar
+1) Crie uma conta no site Open Weather Map: https://openweathermap.org/api
+2) Para ver sua API Key no site vá em: Seu Perfil -> My API Keys. Ali mostrará qual é a sua chave API.
+
+## <img height="40" src="https://user-images.githubusercontent.com/84249945/219459633-fbe0a910-0287-4f46-9ec3-0eaf1da53b87.png"/> Criação do arquivo <b>.env</b>
+* Crie o arquivo ``.env`` na raiz do projeto com o conteúdo conforme a imagem:
+
+
+
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219701953-d9aadf6c-065a-4176-8c21-3b13c497f752.png"/> Instalações
 * Instalar a pasta <strong>node_modules</strong>
 ```bash
 npm install
