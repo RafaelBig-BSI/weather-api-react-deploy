@@ -10,6 +10,9 @@ Para deploy utilizei Github Pages: https://rafaelbig-bsi.github.io/weather-api-r
 * Exibição de descrição de como o céu está no momento (céu limpo, poucas nuvens, nublado, etc.)
 * Exibição de um ícone que indica se no momento atual está de dia (cor laranja) ou de noite (cor preto)
 * Exibição da umidade e velocidade do vento no local
+* Para obter as bandeiras dos países foi utilizada a API do site: https://flagsapi.com/
+* Para fontes dos textos: Google Fonts
+* Para ícones: Font Awesome
 
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219471082-bba3510e-ee6d-4a6e-bf78-d7afc692043e.png"/> Como utilizar
 1) Crie uma conta no site Open Weather Map: https://openweathermap.org/api
