@@ -30,3 +30,6 @@ npm run dev
 </p>
 
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219472556-367952b0-d430-495e-87b9-3f4611bdab21.png" /> Imagens
+
+![image](https://github.com/RafaelBig-BSI/weather-api-react-deploy/assets/84249945/b5fb9df4-f6fc-4119-8b6c-dd5db558c310)
+
